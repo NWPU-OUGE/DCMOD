@@ -1,0 +1,7 @@
+﻿  Main.cpp
+E:\Program Files (x86)\AtomRobotics\SDK\Examples\Low-Level\Windows MeasureDataDemo\MeasureDataDemo\Main.cpp(303,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“__int64”
+E:\Program Files (x86)\AtomRobotics\SDK\Examples\Low-Level\Windows MeasureDataDemo\MeasureDataDemo\Main.cpp(303,10): message : 请考虑在格式字符串中使用“%lld”
+E:\Program Files (x86)\AtomRobotics\SDK\Examples\Low-Level\Windows MeasureDataDemo\MeasureDataDemo\Main.cpp(303,10): message : 请考虑在格式字符串中使用“%Id”
+E:\Program Files (x86)\AtomRobotics\SDK\Examples\Low-Level\Windows MeasureDataDemo\MeasureDataDemo\Main.cpp(303,10): message : 请考虑在格式字符串中使用“%I64d”
+E:\Program Files (x86)\AtomRobotics\SDK\Examples\Low-Level\Windows MeasureDataDemo\MeasureDataDemo\Main.cpp(351,22): warning C4018: “<”: 有符号/无符号不匹配
+  MeasureDataDemo.vcxproj -> E:\Program Files (x86)\AtomRobotics\SDK\Examples\Low-Level\Windows MeasureDataDemo\x64\Debug\MeasureDataDemo.exe

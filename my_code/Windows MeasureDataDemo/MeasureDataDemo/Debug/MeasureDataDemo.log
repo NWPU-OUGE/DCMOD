@@ -1,0 +1,11 @@
+﻿  atomprotocol.cpp
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\atomprotocol.cpp(183,37): error C2375: “AtomCmd_SearchingFrame”: 重定义；不同的链接
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\atomprotocol.h(68): message : 参见“AtomCmd_SearchingFrame”的声明
+  Com.cpp
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Com.cpp(153,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Com.cpp(261,26): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Com.cpp(313,5): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  Main.cpp
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Main.cpp(338,22): warning C4018: “<”: 有符号/无符号不匹配
+  stdafx.cpp
+  正在生成代码...

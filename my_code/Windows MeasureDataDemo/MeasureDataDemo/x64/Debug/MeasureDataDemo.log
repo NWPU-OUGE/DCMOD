@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  atomprotocol.cpp
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\atomprotocol.cpp(100,5): warning C4101: “crc”: 未引用的局部变量
+  Com.cpp
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Com.cpp(158,57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Com.cpp(266,26): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Com.cpp(318,5): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  Main.cpp
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Main.cpp(301,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“__int64”
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Main.cpp(301,10): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Main.cpp(301,10): message : 请考虑在格式字符串中使用“%Id”
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Main.cpp(301,10): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\MeasureDataDemo\Main.cpp(349,22): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+atomprotocol.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+    正在创建库 C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\x64\Debug\MeasureDataDemo.lib 和对象 C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\x64\Debug\MeasureDataDemo.exp
+  MeasureDataDemo.vcxproj -> C:\Users\Govern liu\Desktop\ATOM_LINKER Examples\Examples\Windows MeasureDataDemo\x64\Debug\MeasureDataDemo.dll

@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "c:/mingw/lib/gcc/mingw32/9.2.0/include/c++/",
+                "c:\\mingw\\bin\\../lib/gcc/mingw32/9.2.0/include/c++/mingw32",
+                "c:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/**",
+                "c:/mingw/lib/gcc/mingw32/9.2.0/include",
+                "c:/mingw/lib/gcc/mingw32/9.2.0/../../../../include",
+                "c:/mingw/lib/gcc/mingw32/9.2.0/include-fixed",
+                "b:\\Download\\hawking car\\master Lu\\generation 4（git branch-yzz）\\Middlewares\\ST\\STM32_USB_Device_Library\\Class\\CDC\\Inc",
+                "B:\\Download\\hawking car\\master Lu\\generation 4（git branch-yzz）\\application"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}

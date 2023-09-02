@@ -1,0 +1,25 @@
+{
+  "cortex-debug.armToolchainPath": "D:\\PROGRAMDATA\\STM32CUBE\\GNU-TOOLS-ARM-EMBEDDED\\BIN",
+  "cortex-debug.openocdPath": "D:\\PROGRAMDATA\\STM32CUBE\\OPENOCD\\OPENOCD-20201228-0.10.0\\BIN\\OPENOCD.EXE",
+  "files.associations": {
+    "diancitanshe.h": "c",
+    "electronic.h": "c"
+  },
+  "C_Cpp_Runner.cCompilerPath": "D:\\ProgramData\\STM32Cube\\MinGW\\bin\\gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "D:\\ProgramData\\STM32Cube\\MinGW\\bin\\g++.exe",
+  "C_Cpp_Runner.debuggerPath": "D:\\ProgramData\\STM32Cube\\MinGW\\bin\\gdb.exe",
+  "C_Cpp_Runner.makePath": "D:\\ProgramData\\STM32Cube\\MinGW\\bin\\make.exe",
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.excludeSearch": [],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false
+}
